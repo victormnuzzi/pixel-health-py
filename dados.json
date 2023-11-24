@@ -1,0 +1,307 @@
+{
+    "Usuarios": {
+        "1": {
+            "Informacoes do Login": {
+                "Email": "admin@gmail.com",
+                "Usuario": "admin1",
+                "Senha": "1234"
+            },
+            "Skills": {
+                "Saude Fisica": {
+                    "Corredor": {
+                        "Nivel": 7,
+                        "Subclasse": "Passo inicial"
+                    }
+                },
+                "Saude Mental": {
+                    "Leitura": {
+                        "Nivel": 16,
+                        "Subclasse": "Tranquilidade Prosaica"
+                    }
+                }
+            },
+            "Missoes em Andamento": {
+                "Saude Fisica": {
+                    "Corredor": {
+                        "1": {
+                            "Nome da Missao": "Corredor Destemido",
+                            "Descricao": [
+                                "Os White Walkers estao ameacando os cidadaos indefesos da Terra da Corrida.",
+                                "Embarque nesta jornada epica para salvar a populacao!",
+                                "Sua tarefa eh correr 10 km em um prazo de 1 semana para fortalecer sua resistencia e preparar-se para o confronto iminente com os White Walkers."
+                            ],
+                            "Duracao": "1 semana",
+                            "Recompensas": {
+                                "XP": 50,
+                                "Gold": "100g"
+                            }
+                        },
+                        "2": {
+                            "Nome da Missao": "Exploracao dos Trilhos Distantes",
+                            "Descricao": [
+                                "Sinta a emocao ao explorar trilhos desconhecidos durante o Desafio dos Trilhos Distantes.",
+                                "Percorra 30 km em duas semanas e conquiste o reconhecimento como um explorador destemido.",
+                                "Alem das recompensas, ganhe o Trofeu dos Trilhos, uma honra entre os aventureiros velocistas."
+                            ],
+                            "Duracao": "2 semanas",
+                            "Recompensas": {
+                                "XP": 75,
+                                "Gold": "150g",
+                                "Trofeu": "Trofeu dos Velozes, uma insignia rara que aumenta sua reputacao entre os corredores"
+                            }
+                        }
+                    }
+                },
+                "Saude Mental": {
+                    "Leitura": {
+                        "1": {
+                            "Nome da Missao": "Odisseia dos Livros",
+                            "Descricao": [
+                                "Embarque na Odisseia dos Livros, um desafio para os amantes da leitura.",
+                                "Leia 800 paginas de diferentes generos literarios em tres semanas e expanda seus horizontes intelectuais.",
+                                "Alem das recompensas, conquiste o Trofeu Literario como reconhecimento pela sua jornada literaria."
+                            ],
+                            "Duracao": "3 semanas",
+                            "Recompensas": {
+                                "XP": 120,
+                                "Gold": "200g",
+                                "Trofeu": "Trofeu Literario, uma honra concedida apenas aos devoradores de livros mais dedicados"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "2": {
+            "Informacoes do Login": {
+                "Email": "a@a.com",
+                "Usuario": "admin2",
+                "Senha": "123456"
+            },
+            "Skills": {
+                "Saude Fisica": {
+                    "Corredor": {
+                        "Nivel": 1,
+                        "Subclasse": "Passo inicial"
+                    }
+                },
+                "Saude Mental": {
+                    "Leitura": {
+                        "Nivel": 1,
+                        "Subclasse": "Rota das Paginas"
+                    }
+                }
+            },
+            "Missoes em Andamento": {
+                "Saude Fisica": {
+                    "Corredor": {
+                        "1": {
+                            "Nome da Missao": "Desafio da Corrida Matinal",
+                            "Descricao": [
+                                "Inicie sua jornada de fitness com o Desafio da Corrida Matinal.",
+                                "Corra 10 km em uma semana para fortalecer sua resistencia e preparar-se para novos desafios.",
+                                "Ao fazer isso, voce tambem estara contribuindo para a promocao de um estilo de vida ativo na comunidade."
+                            ],
+                            "Duracao": "1 semana",
+                            "Recompensas": {
+                                "XP": 50,
+                                "Gold": "100g"
+                            }
+                        },
+                        "2": {
+                            "Nome da Missao": "Exploracao dos Trilhos Distantes",
+                            "Descricao": [
+                                "Sinta a emocao ao explorar trilhos desconhecidos durante o Desafio dos Trilhos Distantes.",
+                                "Percorra 30 km em duas semanas e conquiste o reconhecimento como um explorador destemido.",
+                                "Alem das recompensas, ganhe o Trofeu dos Trilhos, uma honra entre os aventureiros velocistas."
+                            ],
+                            "Duracao": "2 semanas",
+                            "Recompensas": {
+                                "XP": 75,
+                                "Gold": "150g",
+                                "Trofeu": "Trofeu dos Velozes, uma insignia rara que aumenta sua reputacao entre os corredores"
+                            }
+                        }
+                    }
+                },
+                "Saude Mental": {
+                    "Leitura": {
+                        "1": {
+                            "Nome da Missao": "Odisseia dos Livros",
+                            "Descricao": [
+                                "Embarque na Odisseia dos Livros, um desafio para os amantes da leitura.",
+                                "Leia 800 paginas de diferentes generos literarios em tres semanas e expanda seus horizontes intelectuais.",
+                                "Alem das recompensas, conquiste o Trofeu Literario como reconhecimento pela sua jornada literaria."
+                            ],
+                            "Duracao": "3 semanas",
+                            "Recompensas": {
+                                "XP": 120,
+                                "Gold": "200g",
+                                "Trofeu": "Trofeu Literario, uma honra concedida apenas aos devoradores de livros mais dedicados"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Missoes": {
+        "Saude Fisica": {
+            "Corredor": {
+                "1": {
+                    "Nome da Missao": "Desafio da Corrida Matinal",
+                    "Descricao": [
+                        "Inicie sua jornada de fitness com o Desafio da Corrida Matinal.",
+                        "Corra 10 km em uma semana para fortalecer sua resistencia e preparar-se para novos desafios.",
+                        "Ao fazer isso, voce tambem estara contribuindo para a promocao de um estilo de vida ativo na comunidade."
+                    ],
+                    "Duracao": "1 semana",
+                    "Recompensas": {
+                        "XP": 50,
+                        "Gold": "100g"
+                    }
+                },
+                "2": {
+                    "Nome da Missao": "Exploracao dos Trilhos Distantes",
+                    "Descricao": [
+                        "Sinta a emocao ao explorar trilhos desconhecidos durante o Desafio dos Trilhos Distantes.",
+                        "Percorra 30 km em duas semanas e conquiste o reconhecimento como um explorador destemido.",
+                        "Alem das recompensas, ganhe o Trofeu dos Trilhos, uma honra entre os aventureiros velocistas."
+                    ],
+                    "Duracao": "2 semanas",
+                    "Recompensas": {
+                        "XP": 75,
+                        "Gold": "150g",
+                        "Trofeu": "Trofeu dos Velozes, uma insignia rara que aumenta sua reputacao entre os corredores"
+                    }
+                }
+            },
+            "Lutador": {
+                "1": {
+                    "Nome da Missao": "Treinamento Intensivo de Combate",
+                    "Descricao": [
+                        "Desenvolva suas habilidades de luta com o Treinamento Intensivo de Combate.",
+                        "Complete 20 sessoes de treinamento para aprimorar suas tecnicas e fortalecer sua postura defensiva.",
+                        "Essa missao e fundamental para sua preparacao como lutador habilidoso."
+                    ],
+                    "Duracao": "2 semanas",
+                    "Recompensas": {
+                        "XP": 60,
+                        "Gold": "120g"
+                    }
+                }
+            },
+            "Atleta de Academia": {
+                "1": {
+                    "Nome da Missao": "Desafio da Transformacao Corporal",
+                    "Descricao": [
+                        "Embarque no Desafio da Transformacao Corporal e transforme seu corpo por meio de exercicios dinamicos.",
+                        "Adote um programa de treinamento intensivo, incorporando exercicios de levantamento de peso, cardio e flexibilidade.",
+                        "Ao concluir estas duas semanas de dedicacao, voce vera uma notavel mudanca em sua forca, resistencia e condicionamento fisico."
+                    ],
+                    "Duracao": "2 semanas",
+                    "Recompensas": {
+                        "XP": 70,
+                        "Gold": "140g"
+                    }
+                },
+                "2": {
+                    "Nome da Missao": "Desafio da Barra Real",
+                    "Descricao": [
+                        "Participe do emocionante Desafio da Barra Real, uma competicao que destaca a versatilidade e forca dos atletas.",
+                        "Supere obstaculos que incluem levantamento de peso, agachamentos e desafios de resistencia.",
+                        "Conquiste o respeito da comunidade fitness e alcance o Trofeu da Barra Real, simbolizando sua maestria no mundo dos exercicios."
+                    ],
+                    "Duracao": "3 semanas",
+                    "Recompensas": {
+                        "XP": 120,
+                        "Gold": "250g",
+                        "Trofeu": "Trofeu da Barra Real, uma honra concedida apenas aos atletas mais habilidosos"
+                    }
+                }
+            },
+            "Nao Praticante": "Nao tem missoes."
+        },
+        "Saude Mental": {
+            "Leitura": {
+                "1": {
+                    "Nome da Missao": "Odisseia dos Livros",
+                    "Descricao": [
+                        "Embarque na Odisseia dos Livros, um desafio para os amantes da leitura.",
+                        "Leia 800 paginas de diferentes generos literarios em tres semanas e expanda seus horizontes intelectuais.",
+                        "Alem das recompensas, conquiste o Trofeu Literario como reconhecimento pela sua jornada literaria."
+                    ],
+                    "Duracao": "3 semanas",
+                    "Recompensas": {
+                        "XP": 120,
+                        "Gold": "200g",
+                        "Trofeu": "Trofeu Literario, uma honra concedida apenas aos devoradores de livros mais dedicados"
+                    }
+                }
+            },
+            "Meditacao": {
+                "1": {
+                    "Nome da Missao": "Jornada da Serenidade",
+                    "Descricao": [
+                        "Inicie sua Jornada da Serenidade com a pratica diaria de meditacao.",
+                        "Reserve 10 minutos por dia para acalmar sua mente e encontrar paz interior.",
+                        "Esta missao e um passo crucial para fortalecer sua saude mental e equilibrio emocional."
+                    ],
+                    "Duracao": "2 semanas",
+                    "Recompensas": {
+                        "XP": 60,
+                        "Gold": "100g"
+                    }
+                },
+                "2": {
+                    "Nome da Missao": "Mestre da Tranquilidade",
+                    "Descricao": [
+                        "Torne-se um verdadeiro Mestre da Tranquilidade com o Desafio da Meditacao Avancada.",
+                        "Aumente a duracao diaria para 20 minutos e alcance um estado mais profundo de paz interior.",
+                        "Alem das recompensas, alcance o Trofeu da Serenidade como simbolo do seu dom\u00c3\u00adnio na arte da meditacao."
+                    ],
+                    "Duracao": "3 semanas",
+                    "Recompensas": {
+                        "XP": 100,
+                        "Gold": "150g",
+                        "Trofeu": "Trofeu da Serenidade, uma honra concedida apenas aos mestres da meditacao"
+                    }
+                }
+            },
+            "Nao Praticante": "Nao tem missoes."
+        }
+    },
+    "Skills": {
+        "Saude Fisica": {
+            "Atleta de Academia": {
+                "1 - 10": "Base firme",
+                "11 - 20": "Potencia Resiliente",
+                "21 - 30": "Maquina de Resistencia"
+            },
+            "Corredor": {
+                "1 - 10": "Passo inicial",
+                "11 - 20": "Ritmo Crescente",
+                "21 - 30": "Vento nas coxas"
+            },
+            "Lutador": {
+                "1 - 10": "Primeiros Golpes",
+                "11 - 20": "Caminho da tecnica",
+                "21 - 30": "Dragao Guerreiro"
+            },
+            "Nao Praticante": "Nao praticante (ainda)"
+        },
+        "Saude Mental": {
+            "Leitura": {
+                "1 - 10": "Rota das Paginas",
+                "11 - 20": "Tranquilidade Prosaica",
+                "21 - 30": "Odisseia de Palavras"
+            },
+            "Meditacao": {
+                "1 - 10": "Interior Tranquilo",
+                "11 - 20": "Respiracao Profunda",
+                "21 - 30": "Paz de Espirito"
+            },
+            "Nao Praticante": "Nao praticante (ainda)"
+        }
+    }
+}
